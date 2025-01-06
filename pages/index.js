@@ -15,6 +15,9 @@ export default function Home() {
       <div>
         <main className={styles.main}>
           <h1> THIS IS HOME PAGE</h1>
+          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis ducimus doloribus, laborum porro sunt fuga a blanditiis explicabo, alias sit consectetur repellat exercitationem fugit, natus ab vero accusantium tempore molestias!</p>
+           <a href="">shop</a>
+           <h6>my nae is ....</h6>
         </main>
         <footer className={styles.footer}>
           <h3>FOOTER</h3>
